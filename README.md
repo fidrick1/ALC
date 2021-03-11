@@ -1,3 +1,3 @@
-# ALC/index.html
+# ALC
 WEBSITE 
 
